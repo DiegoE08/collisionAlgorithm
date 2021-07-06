@@ -24,7 +24,7 @@ function draw() {
   }
   else {
     movingRect.shapeColor = "green";
-    fixedRect.shapeColor = "green";
+    fixedRect.shapeColor = "red";
   }
   drawSprites();
 }
